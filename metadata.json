@@ -1,0 +1,8 @@
+{
+  "name": "Deadline Guardian AI",
+  "description": "The AI Productivity Companion That Helps You Finish Tasks Before It's Too Late.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
